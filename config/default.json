@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://talal123:talal123@devconnector.94gts.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "mysecret token",
+  "githubClientId": "fe3a26d1bf5292db4ea5",
+  "githubSecret": "334e6fbcfcbf2fb1709f4873ce2c158cc5198a48"
+}
